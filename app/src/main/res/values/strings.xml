@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CalculadoraImpuestos</string>
+    <string name="hint_salario">Coloque su salario</string>
+    <string name="hint_seguro">Descuento Seguro</string>
+    <string name="hint_pension">Descuento Pension</string>
+    <string name="hint_renta">Descuento renta</string>
+    <string name="hint_total">Descuento total</string>
+    <string name="hint_salarioNeto">Salario neto</string>
+    <string name="lbl_calcular">Calcular</string>
+
+
+</resources>
